@@ -39,9 +39,14 @@ Inverting amplifier:
 <img width="368" height="284" alt="image" src="https://github.com/user-attachments/assets/d2081f1e-57d1-4cd0-b59a-5ebb4115733d" />
 
 ## TABULATION:
+![WhatsApp Image 2025-11-18 at 21 10 25_edfb40f2](https://github.com/user-attachments/assets/d49fc7aa-3533-47e3-a0ec-a7f23f688403)
 
 
 ## GRAPH:
 
+![WhatsApp Image 2025-11-18 at 21 11 17_576e6df8](https://github.com/user-attachments/assets/1957ab85-3a66-481c-aee0-961d2b4453c3)
 
 ## RESULT:
+Thus the Inverting, Non-Inverting and Differential Amplifiers are designed and their 
+performance was successfully tested using op-amp IC 741. 
+
